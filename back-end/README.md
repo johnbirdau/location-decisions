@@ -6,7 +6,7 @@
 
 # Database schema
 1. amend connection string in AgeStructureDb/DbModel.cs (outside coding assignment this would )
-1. in AgeStructureDB folder run `dotnet ef database update InitialCreate`
+1. in AgeStructureDB folder run `dotnet ef database update`
 
 # Data load
 1. run DbCreateLoad console program.
