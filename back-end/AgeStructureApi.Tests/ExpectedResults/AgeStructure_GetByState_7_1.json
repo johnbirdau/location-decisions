@@ -1,0 +1,1410 @@
+{
+  "stateCode": 7,
+  "stateName": "Northern Territory",
+  "data": [
+    {
+      "age": "0",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1728
+    },
+    {
+      "age": "1",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1822
+    },
+    {
+      "age": "10",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1711
+    },
+    {
+      "age": "100",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "101",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "102",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "103",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "104",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "105",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "106",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "107",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "108",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "109",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "11",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1581
+    },
+    {
+      "age": "110",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "111",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "112",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "113",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "114",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "115 years and over",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "12",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1553
+    },
+    {
+      "age": "13",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1647
+    },
+    {
+      "age": "14",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1556
+    },
+    {
+      "age": "15",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1581
+    },
+    {
+      "age": "16",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1688
+    },
+    {
+      "age": "17",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1552
+    },
+    {
+      "age": "18",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1498
+    },
+    {
+      "age": "19",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1526
+    },
+    {
+      "age": "2",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1744
+    },
+    {
+      "age": "20",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1688
+    },
+    {
+      "age": "21",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1798
+    },
+    {
+      "age": "22",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1792
+    },
+    {
+      "age": "23",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1826
+    },
+    {
+      "age": "24",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1873
+    },
+    {
+      "age": "25",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 2066
+    },
+    {
+      "age": "26",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1943
+    },
+    {
+      "age": "27",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1909
+    },
+    {
+      "age": "28",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 2009
+    },
+    {
+      "age": "29",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1906
+    },
+    {
+      "age": "3",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1747
+    },
+    {
+      "age": "30",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1999
+    },
+    {
+      "age": "31",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1761
+    },
+    {
+      "age": "32",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1730
+    },
+    {
+      "age": "33",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1609
+    },
+    {
+      "age": "34",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1633
+    },
+    {
+      "age": "35",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1744
+    },
+    {
+      "age": "36",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1664
+    },
+    {
+      "age": "37",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1701
+    },
+    {
+      "age": "38",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1704
+    },
+    {
+      "age": "39",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1720
+    },
+    {
+      "age": "4",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1793
+    },
+    {
+      "age": "40",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1877
+    },
+    {
+      "age": "41",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1690
+    },
+    {
+      "age": "42",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1612
+    },
+    {
+      "age": "43",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1548
+    },
+    {
+      "age": "44",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1525
+    },
+    {
+      "age": "45",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1571
+    },
+    {
+      "age": "46",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1491
+    },
+    {
+      "age": "47",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1441
+    },
+    {
+      "age": "48",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1541
+    },
+    {
+      "age": "49",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1566
+    },
+    {
+      "age": "5",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1786
+    },
+    {
+      "age": "50",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1569
+    },
+    {
+      "age": "51",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1376
+    },
+    {
+      "age": "52",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1393
+    },
+    {
+      "age": "53",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1376
+    },
+    {
+      "age": "54",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1314
+    },
+    {
+      "age": "55",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1331
+    },
+    {
+      "age": "56",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1267
+    },
+    {
+      "age": "57",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1221
+    },
+    {
+      "age": "58",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1141
+    },
+    {
+      "age": "59",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1124
+    },
+    {
+      "age": "6",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1710
+    },
+    {
+      "age": "60",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1140
+    },
+    {
+      "age": "61",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1049
+    },
+    {
+      "age": "62",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 990
+    },
+    {
+      "age": "63",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 895
+    },
+    {
+      "age": "64",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 950
+    },
+    {
+      "age": "65",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 734
+    },
+    {
+      "age": "66",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 677
+    },
+    {
+      "age": "67",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 564
+    },
+    {
+      "age": "68",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 483
+    },
+    {
+      "age": "69",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 475
+    },
+    {
+      "age": "7",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1592
+    },
+    {
+      "age": "70",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 488
+    },
+    {
+      "age": "71",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 445
+    },
+    {
+      "age": "72",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 302
+    },
+    {
+      "age": "73",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 301
+    },
+    {
+      "age": "74",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 268
+    },
+    {
+      "age": "75",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 234
+    },
+    {
+      "age": "76",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 213
+    },
+    {
+      "age": "77",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 149
+    },
+    {
+      "age": "78",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 145
+    },
+    {
+      "age": "79",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 133
+    },
+    {
+      "age": "8",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1666
+    },
+    {
+      "age": "80",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 149
+    },
+    {
+      "age": "81",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 137
+    },
+    {
+      "age": "82",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 101
+    },
+    {
+      "age": "83",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 84
+    },
+    {
+      "age": "84",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 72
+    },
+    {
+      "age": "85",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 58
+    },
+    {
+      "age": "86",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 37
+    },
+    {
+      "age": "87",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 36
+    },
+    {
+      "age": "88",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 25
+    },
+    {
+      "age": "89",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 35
+    },
+    {
+      "age": "9",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 1581
+    },
+    {
+      "age": "90",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 19
+    },
+    {
+      "age": "91",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 9
+    },
+    {
+      "age": "92",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 7
+    },
+    {
+      "age": "93",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 3
+    },
+    {
+      "age": "94",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 3
+    },
+    {
+      "age": "95",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 3
+    },
+    {
+      "age": "96",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "97",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "98",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "99",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 0
+    },
+    {
+      "age": "All ages",
+      "sex": "Males",
+      "censusYear": 2011,
+      "population": 109508
+    },
+    {
+      "age": "0",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1707
+    },
+    {
+      "age": "1",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1946
+    },
+    {
+      "age": "10",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1637
+    },
+    {
+      "age": "100",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "101",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "102",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "103",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "104",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "105",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "106",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "107",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "108",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "109",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "11",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1520
+    },
+    {
+      "age": "110",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "111",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "112",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "113",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "114",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "115 years and over",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "12",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1502
+    },
+    {
+      "age": "13",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1569
+    },
+    {
+      "age": "14",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1534
+    },
+    {
+      "age": "15",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1585
+    },
+    {
+      "age": "16",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1535
+    },
+    {
+      "age": "17",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1430
+    },
+    {
+      "age": "18",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1491
+    },
+    {
+      "age": "19",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1434
+    },
+    {
+      "age": "2",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1818
+    },
+    {
+      "age": "20",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1589
+    },
+    {
+      "age": "21",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1744
+    },
+    {
+      "age": "22",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1786
+    },
+    {
+      "age": "23",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1799
+    },
+    {
+      "age": "24",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1937
+    },
+    {
+      "age": "25",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2126
+    },
+    {
+      "age": "26",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2258
+    },
+    {
+      "age": "27",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2218
+    },
+    {
+      "age": "28",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2261
+    },
+    {
+      "age": "29",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2269
+    },
+    {
+      "age": "3",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1722
+    },
+    {
+      "age": "30",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2314
+    },
+    {
+      "age": "31",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2176
+    },
+    {
+      "age": "32",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2147
+    },
+    {
+      "age": "33",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2194
+    },
+    {
+      "age": "34",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2028
+    },
+    {
+      "age": "35",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2094
+    },
+    {
+      "age": "36",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1848
+    },
+    {
+      "age": "37",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1839
+    },
+    {
+      "age": "38",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1740
+    },
+    {
+      "age": "39",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1741
+    },
+    {
+      "age": "4",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1806
+    },
+    {
+      "age": "40",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1866
+    },
+    {
+      "age": "41",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1598
+    },
+    {
+      "age": "42",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1770
+    },
+    {
+      "age": "43",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1645
+    },
+    {
+      "age": "44",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1700
+    },
+    {
+      "age": "45",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 2000
+    },
+    {
+      "age": "46",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1662
+    },
+    {
+      "age": "47",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1633
+    },
+    {
+      "age": "48",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1607
+    },
+    {
+      "age": "49",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1633
+    },
+    {
+      "age": "5",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1834
+    },
+    {
+      "age": "50",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1663
+    },
+    {
+      "age": "51",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1471
+    },
+    {
+      "age": "52",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1524
+    },
+    {
+      "age": "53",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1553
+    },
+    {
+      "age": "54",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1483
+    },
+    {
+      "age": "55",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1521
+    },
+    {
+      "age": "56",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1359
+    },
+    {
+      "age": "57",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1303
+    },
+    {
+      "age": "58",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1216
+    },
+    {
+      "age": "59",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1194
+    },
+    {
+      "age": "6",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1808
+    },
+    {
+      "age": "60",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1260
+    },
+    {
+      "age": "61",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1159
+    },
+    {
+      "age": "62",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1042
+    },
+    {
+      "age": "63",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1054
+    },
+    {
+      "age": "64",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 973
+    },
+    {
+      "age": "65",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 884
+    },
+    {
+      "age": "66",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 855
+    },
+    {
+      "age": "67",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 788
+    },
+    {
+      "age": "68",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 718
+    },
+    {
+      "age": "69",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 749
+    },
+    {
+      "age": "7",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1746
+    },
+    {
+      "age": "70",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 570
+    },
+    {
+      "age": "71",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 528
+    },
+    {
+      "age": "72",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 429
+    },
+    {
+      "age": "73",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 385
+    },
+    {
+      "age": "74",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 409
+    },
+    {
+      "age": "75",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 389
+    },
+    {
+      "age": "76",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 338
+    },
+    {
+      "age": "77",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 205
+    },
+    {
+      "age": "78",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 224
+    },
+    {
+      "age": "79",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 167
+    },
+    {
+      "age": "8",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1689
+    },
+    {
+      "age": "80",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 176
+    },
+    {
+      "age": "81",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 109
+    },
+    {
+      "age": "82",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 99
+    },
+    {
+      "age": "83",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 96
+    },
+    {
+      "age": "84",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 81
+    },
+    {
+      "age": "85",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 80
+    },
+    {
+      "age": "86",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 63
+    },
+    {
+      "age": "87",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 57
+    },
+    {
+      "age": "88",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 46
+    },
+    {
+      "age": "89",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 36
+    },
+    {
+      "age": "9",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 1614
+    },
+    {
+      "age": "90",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 16
+    },
+    {
+      "age": "91",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 20
+    },
+    {
+      "age": "92",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 13
+    },
+    {
+      "age": "93",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 16
+    },
+    {
+      "age": "94",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 16
+    },
+    {
+      "age": "95",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 7
+    },
+    {
+      "age": "96",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 3
+    },
+    {
+      "age": "97",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 6
+    },
+    {
+      "age": "98",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 4
+    },
+    {
+      "age": "99",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 0
+    },
+    {
+      "age": "All ages",
+      "sex": "Males",
+      "censusYear": 2016,
+      "population": 118569
+    }
+  ]
+}

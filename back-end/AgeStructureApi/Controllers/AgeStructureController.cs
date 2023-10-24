@@ -8,12 +8,12 @@ namespace AgeStructureApi.Controllers;
 [Route("api/age-structure")]
 public class AgeStructureController : ControllerBase
 {
-    private readonly ILogger<AgeStructureController> _logger;
+    //private readonly ILogger<AgeStructureController> _logger;
 
-    public AgeStructureController(ILogger<AgeStructureController> logger)
-    {
-        _logger = logger;
-    }
+    // public AgeStructureController(ILogger<AgeStructureController> logger)
+    // {
+    //     _logger = logger;
+    // }
 
     [HttpGet("{regionId}/{sexId}")]
     public RegionSexPopulation Get(
@@ -39,11 +39,12 @@ public class AgeStructureController : ControllerBase
             where r.Id == regionId
             select r.Region;
 
-        return new RegionSexPopulation{
-                RegionCode = regionId,
-                RegionName = regionName.FirstOrDefault(),
-                Data = data.ToList()
-            };;
+        return new RegionSexPopulation
+        {
+            RegionCode = regionId,
+            RegionName = regionName.FirstOrDefault(),
+            Data = data.ToList()
+        }; ;
     }
 
     [HttpGet("state/{stateId}/{sexId}")]
@@ -57,7 +58,7 @@ public class AgeStructureController : ControllerBase
             from f in db.FactPopulations
             where f.SexId == sexId && f.StateId == stateId
             group f by new { f.AgeId, f.YearId } into g
-            select 
+            select
                 new AgePopulation
                 {
                     Age = g.First().Age.Age,
@@ -71,10 +72,11 @@ public class AgeStructureController : ControllerBase
             where r.Id == stateId
             select r.State;
 
-        return new StateSexPopulation{
-                StateCode = stateId,
-                StateName = stateName.FirstOrDefault(),
-                Data = data.ToList()
-            };;
+        return new StateSexPopulation
+        {
+            StateCode = stateId,
+            StateName = stateName.FirstOrDefault(),
+            Data = data.OrderBy(d => d.CensusYear).ThenBy(d => d.Age).ThenBy(d => d.Sex).ToList()
+        }; ;
     }
 }
