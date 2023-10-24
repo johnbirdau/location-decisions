@@ -1,3 +1,4 @@
+using AgeStructureApi.Models;
 using AgeStructureDb;
 using Microsoft.AspNetCore.Mvc;
 
