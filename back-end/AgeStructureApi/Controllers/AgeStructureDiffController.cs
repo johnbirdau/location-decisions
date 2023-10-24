@@ -24,8 +24,8 @@ public class AgeStructureDiffController : ControllerBase
     )
     {
         using var db = new AgeStructureDbContext();
-        var year1Data = QueryYearData(regionId, sexId, year1, db);
-        var year2Data = QueryYearData(regionId, sexId, year2, db);
+        var year1Data = QueryRegionYearData(regionId, sexId, year1, db);
+        var year2Data = QueryRegionYearData(regionId, sexId, year2, db);
 
         // would be more efficient to diff in DB, but in the interests of assignemnt time...
         // currently assumes same data points for both years are available.
@@ -56,7 +56,7 @@ public class AgeStructureDiffController : ControllerBase
         }; ;
     }
 
-    private static List<AgePopulationDiff> QueryYearData(int regionId, int sexId, int year1, AgeStructureDbContext db) =>
+    private static List<AgePopulationDiff> QueryRegionYearData(int regionId, int sexId, int year1, AgeStructureDbContext db) =>
         (
             from f1 in db.FactPopulations
             where f1.SexId == sexId && f1.RegionId == regionId && f1.YearId == year1
@@ -70,35 +70,69 @@ public class AgeStructureDiffController : ControllerBase
                 }
         ).ToList();
 
-    // [HttpGet("state/{stateId}/{sexId}")]
-    // public StateSexPopulation GetByState(
-    //     int stateId,
-    //     int sexId
-    // )
-    // {
-    //     using var db = new AgeStructureDbContext();
-    //     var data =
-    //         from f in db.FactPopulations
-    //         where f.SexId == sexId && f.StateId == stateId
-    //         group f by new { f.AgeId, f.YearId } into g
-    //         select 
-    //             new AgePopulation
-    //             {
-    //                 Age = g.First().Age.Age,
-    //                 Sex = g.First().Sex.Sex,
-    //                 CensusYear = g.Key.YearId,
-    //                 Population = g.Sum(f => f.Value)
-    //             };
+    [HttpGet("state/{stateId}/{sexId}/{year1}/{year2}")]
+    public StateSexPopulationDiff GetByState(
+        int stateId,
+        int sexId,
+        int year1,
+        int year2
+    )
+    {
+        using var db = new AgeStructureDbContext();
+        var year1Data = QueryStateYearData(stateId, sexId, year1, db);
+        var year2Data = QueryStateYearData(stateId, sexId, year2, db);
 
-    //     var stateName =
-    //         from r in db.DimStates
-    //         where r.Id == stateId
-    //         select r.State;
+        // would be more efficient to diff in DB, but in the interests of assignemnt time...
+        // currently assumes same data points for both years are available.
+        var data =
+            year1Data
+            .Zip(
+                year2Data,
+                (y1, y2) =>
+                    new AgePopulationDiff
+                    {
+                        Age = y1.Age,
+                        Sex = y1.Sex,
+                        Population = y2.Population - y1.Population
+                    }
+            );
 
-    //     return new StateSexPopulation{
-    //             StateCode = stateId,
-    //             StateName = stateName.FirstOrDefault(),
-    //             Data = data.ToList()
-    //         };;
-    // }
+        var resultData =
+            from f in data
+            group f by new { f.Age, f.Sex } into g
+            select 
+                new AgePopulationDiff
+                {
+                    Age = g.First().Age,
+                    Sex = g.First().Sex,
+                    Population = g.Sum(f => f.Population)
+                };
+
+        var stateName =
+            from r in db.DimStates
+            where r.Id == stateId
+            select r.State;
+
+        return new StateSexPopulationDiff{
+                StateCode = stateId,
+                StateName = stateName.FirstOrDefault(),
+                CensusYear = $"{year1}-{year2}",
+                Data = resultData.ToList()
+            };;
+    }
+
+    private static List<AgePopulationDiff> QueryStateYearData(int stateId, int sexId, int year1, AgeStructureDbContext db) =>
+    (
+        from f1 in db.FactPopulations
+        where f1.SexId == sexId && f1.StateId == stateId && f1.YearId == year1
+        orderby f1.AgeId, f1.RegionId
+        select
+            new AgePopulationDiff
+            {
+                Age = f1.Age.Age,
+                Sex = f1.Sex.Sex,
+                Population = f1.Value
+            }
+    ).ToList();
+
 }
